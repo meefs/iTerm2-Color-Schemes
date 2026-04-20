@@ -473,6 +473,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/citruszest.png)
 
+### Clear Dark
+
+![Screenshot](/screenshots/clear-dark.png)
+
 ### Cobalt Neon
 
 ![Screenshot](/screenshots/cobalt-neon.png)
@@ -492,6 +496,10 @@ The screenshots are categorized.
 ### Cobalt2
 
 ![Screenshot](/screenshots/cobalt2.png)
+
+### Cool Night
+
+![Screenshot](/screenshots/cool-night.png)
 
 ### Crayon Pony Fish
 
@@ -640,6 +648,10 @@ The screenshots are categorized.
 ### Embers Dark
 
 ![Screenshot](/screenshots/embers-dark.png)
+
+### Emerald Synth
+
+![Screenshot](/screenshots/emerald-synth.png)
 
 ### ENCOM
 
@@ -984,6 +996,10 @@ The screenshots are categorized.
 ### Kanso Zen
 
 ![Screenshot](/screenshots/kanso-zen.png)
+
+### Karasu Night
+
+![Screenshot](/screenshots/karasu-night.png)
 
 ### Kibble
 
@@ -1851,6 +1867,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/catppuccin-latte.png)
 
+### Clear Light
+
+![Screenshot](/screenshots/clear-light.png)
+
 ### CLRS
 
 ![Screenshot](/screenshots/clrs.png)
@@ -1951,6 +1971,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/kanso-pearl.png)
 
+### Karasu Snow
+
+![Screenshot](/screenshots/karasu-snow.png)
+
 ### Light Owl
 
 ![Screenshot](/screenshots/light-owl.png)
@@ -1986,6 +2010,10 @@ The screenshots are categorized.
 ### Monospace Light
 
 ![Screenshot](/screenshots/monospace-light.png)
+
+### Moonwalk
+
+![Screenshot](/screenshots/moonwalk.png)
 
 ### Neobones Light
 

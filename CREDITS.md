@@ -192,6 +192,8 @@ The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncans
 
 The GitLab Dark, GitLab Dark Grey, and GitLab Light themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [albertorestifo](https://github.com/albertorestifo/gitlab-webide-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
+The Gleam and Gleam Classic themes were created by [trag1c](https://github.com/trag1c). Originally designed by [aslilac](https://github.com/aslilac) and [lpil](https://github.com/lpil).
+
 The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
 
 The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)
@@ -250,6 +252,8 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
 The Kanagawa themes (Kanagawa Wave, Kanagawa Dragon, and Kanagawa Lotus) were created by [rebelot](https://github.com/rebelot) and added by [Jeremy Seago](https://github.com/seagoj) and [Antonio Camargo](https://github.com/apcamargo).
+
+The Karasu Night and Karasu Snow themes were created by [scozu](https://github.com/scozu).
 
 The Kanso Ink, Kanso Mist, Kanso Zen, and Kanso Pearl themes were created by [webhooked](https://github.com/webhooked) and added by [Antonio Camargo](https://github.com/apcamargo).
 
@@ -338,6 +342,8 @@ The Obsidian theme was on my hard drive and I don't recall where it came from. I
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
 
 The Oceanic Next theme was created by [mhartington](https://github.com/mhartington/oceanic-next-iterm)
+
+The Moonwalk theme was created by [Jian](https://github.com/thejian)
 
 The One Dark Two theme was created by [beatreichenbach](https://github.com/beatreichenbach/one-dark-two), based on Atom's One Dark with brighter text.
 
@@ -508,3 +514,5 @@ The violite theme was created by [Link](https://github.com/4c696e6b)
 Poimandres theme was originally created by [drcmda](https://github.com/drcmda/poimandres-theme) and ported by [bastiangx](https://github.com/bastiangx)
 
 Onenord and Onenord Light theme was created by [Ryan Mehri](https://github.com/rmehri01/onenord.nvim)
+
+The Claude theme was created by [techfitmaster](https://github.com/techfitmaster/ghostty-claude-theme), inspired by the [Claude](https://claude.ai) AI interface color palette
